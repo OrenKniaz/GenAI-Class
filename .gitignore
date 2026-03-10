@@ -3,3 +3,5 @@
 --pycache__/
 *.pyc
 .vscode/
+.ipynb_checkpoints/
+NORTHWND_prd.csv
